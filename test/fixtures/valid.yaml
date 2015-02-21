@@ -1,0 +1,5 @@
+foo:
+  - bar: 1
+zap:
+  - tap: 3
+  - wow: 4
