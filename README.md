@@ -19,6 +19,8 @@ yamlValidate('**/*.yaml')
 });
 ```
 
+##### Or via a [grunt task](https://github.com/samccone/grunt-yaml-validate)
+
 ### Why?
 
 Sometimes as part of a linting process for a code base you want to ensure that everything is valid yaml. This tool aims to make it easy to integrate a yaml validation layer to your CI flow.
